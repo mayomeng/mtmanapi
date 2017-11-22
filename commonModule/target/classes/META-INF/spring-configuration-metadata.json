@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.webservice.mtmanapi.configuration.AppConfiguation",
+      "name": "app",
+      "type": "com.webservice.mtmanapi.configuration.AppConfiguation"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.webservice.mtmanapi.configuration.AppConfiguation",
+      "name": "app.dll-file-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.webservice.mtmanapi.configuration.AppConfiguation",
+      "defaultValue": 0,
+      "name": "app.server-port",
+      "type": "java.lang.Integer"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+com\webservice\mtmanapi\jna\impl\NativeLibraryImpl.class
+com\webservice\mtmanapi\lib\CLibrary.class
+com\webservice\mtmanapi\lib\CLibraryUtil.class
+com\webservice\mtmanapi\jna\NativeLibrary.class

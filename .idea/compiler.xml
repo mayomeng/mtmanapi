@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="actionModule" />
+        <module name="commonModule" />
+        <module name="jnaModule" />
+        <module name="serviceModule" />
+        <module name="startModule" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="actionModule" target="1.8" />
+      <module name="commonModule" target="1.8" />
+      <module name="jnaModule" target="1.8" />
+      <module name="mtmanapi" target="1.8" />
+      <module name="serviceModule" target="1.8" />
+      <module name="startModule" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

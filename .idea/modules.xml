@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/actionModule/actionModule.iml" filepath="$PROJECT_DIR$/actionModule/actionModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonModule/commonModule.iml" filepath="$PROJECT_DIR$/commonModule/commonModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jnaModule/jnaModule.iml" filepath="$PROJECT_DIR$/jnaModule/jnaModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mtmanapi.iml" filepath="$PROJECT_DIR$/mtmanapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceModule/serviceModule.iml" filepath="$PROJECT_DIR$/serviceModule/serviceModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/startModule/startModule.iml" filepath="$PROJECT_DIR$/startModule/startModule.iml" />
+    </modules>
+  </component>
+</project>
